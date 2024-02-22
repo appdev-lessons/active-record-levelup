@@ -21,9 +21,5 @@ Some tips:
 
 Good luck! Ask lots of questions!
 
-- Did you make it all the way through the levels?
-- Yes
-	- Great! You know some pretty advanced querying now!
-- No, I got stuck.
-	- No worries, hopefully you could at least accomplish some of the early levels.
-{: .choose_best #what_level title="What level did you reach?" points="1" answer="any" }
+- What is the name of the level you completed up to (enter "all" if you made it all the way through)?
+{: .free_text #what_level title="What level did you reach?" points="1" answer="any" }
