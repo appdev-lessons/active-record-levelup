@@ -4,6 +4,8 @@ Get some more querying practice with this game we built:
 
 [levelup.firstdraft.com](https://levelup.firstdraft.com/)
 
+The levels are not graded, so don't worry about getting points here. Just have some fun getting practice with querying.
+
 Some tips:
 
 - Your task for each level is in bold at the top of the page.
