@@ -25,3 +25,7 @@ Good luck! Ask lots of questions!
 
 - What is the name of the level you completed up to (enter "all" if you made it all the way through)?
 {: .free_text #what_level title="What level did you reach?" points="1" answer="any" }
+
+- Approximately how long (in minutes) did you spend on the levelup game?
+{: .free_text_number #time_taken title="Time taken" points="1" answer="any" }
+
